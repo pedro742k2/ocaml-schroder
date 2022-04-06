@@ -8,6 +8,9 @@
 *.cmxs
 *.cmxa
 
+# main output executable name
+program
+
 # ocamlbuild working directory
 _build/
 

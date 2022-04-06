@@ -6,7 +6,7 @@
 
 ## How to run this program?
 
-- After clonning this repository, you can run `ocamlfind ocamlopt -o programa main.ml -linkpkg -package zarith` to compile the file with the Zarith library, which can be installed by running `opam install zarith`;
+- After clonning this repository, you can run `ocamlfind ocamlopt -o program main.ml -linkpkg -package zarith` to compile the file with the Zarith library, which can be installed by running `opam install zarith`;
 
 - After compiled, just run the output executable file by running `./main.ml`.
 
