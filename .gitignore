@@ -8,6 +8,9 @@
 *.cmxs
 *.cmxa
 
+# VS code folder
+.vscode/
+
 # main output executable name
 program
 
